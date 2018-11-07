@@ -14,7 +14,5 @@ spring:
 ---
 spring:
   profiles: test  #测试环境
-  application: 
-    name: microservicecloud-config-ijava-test
-
-#  请保持是UTF-8的格式   
+  application:  
+    name: microservicecloud-config-ijava-test  ##请保持是UTF-8的格式   
